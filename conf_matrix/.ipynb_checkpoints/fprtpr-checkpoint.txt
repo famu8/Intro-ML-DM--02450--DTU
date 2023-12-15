@@ -1,0 +1,7 @@
+fpr=fp/fp+tn
+tpr=tp/tp+fn
+
+
+   t  n
+t tp  fn
+n fp  tn

@@ -1,0 +1,5 @@
+la varianza con probs es: 
+
+var(k) = E p(k)(k-media)^2
+donde k es cada valor distinto de la clase y la p(k) te la dan en el enunciado 
+o en un plot

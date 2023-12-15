@@ -1,0 +1,16 @@
+Te van a decir que un punto es un outlier. 
+1. Te vas a la FILA de ese outlier
+2. MIRAS los K valores mas bajos (cercanos)
+3. Haces la formula de la densidad 
+
+Una vez hecho eso te vas a las FILAS de los K mas cercanos 
+
+Y repites la formula para estos 
+
+luego haces la formula final de ard
+
+
+
+!!!!importante PUEDE HBAER REPETICION !!!!!!!
+Es decir, si el primer outlier tiene de mas cercanos a o4 u ox
+Ese O4 u ox puede tener tambien como vecino a esa muestra

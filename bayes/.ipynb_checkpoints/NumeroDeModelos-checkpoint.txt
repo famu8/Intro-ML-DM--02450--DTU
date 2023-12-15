@@ -1,0 +1,4 @@
+en naive bayes si te piden el numero de modelos minimos: 
+num modelos minimos = C * M 
+C = numero de clases de esa variable
+M = numero de features del dataset

@@ -1,0 +1,5 @@
+Para sacar la Mahalnobis distance se tiene que tener 
+en cuenta la covarianza. (Ver ej 23, spring2020)
+La distancia será menor donde apunte la forma del plot o de la matriz 
+
+VER ESTE EJ!!!!!!!!!!!
